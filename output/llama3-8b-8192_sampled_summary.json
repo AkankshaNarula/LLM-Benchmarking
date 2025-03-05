@@ -1,0 +1,77 @@
+{
+  "total_questions": 1400,
+  "correct_questions": 170,
+  "subject_accuracies": {
+    "business": {
+      "accuracy": 0.42,
+      "total_questions": 100,
+      "correct_questions": 42
+    },
+    "law": {
+      "accuracy": 0.27,
+      "total_questions": 100,
+      "correct_questions": 27
+    },
+    "psychology": {
+      "accuracy": 0.58,
+      "total_questions": 100,
+      "correct_questions": 58
+    },
+    "biology": {
+      "accuracy": 0.42,
+      "total_questions": 100,
+      "correct_questions": 42
+    },
+    "chemistry": {
+      "accuracy": 0.0,
+      "total_questions": 100,
+      "correct_questions": 0
+    },
+    "history": {
+      "accuracy": 0.0,
+      "total_questions": 100,
+      "correct_questions": 0
+    },
+    "other": {
+      "accuracy": 0.0,
+      "total_questions": 100,
+      "correct_questions": 0
+    },
+    "health": {
+      "accuracy": 0.0,
+      "total_questions": 100,
+      "correct_questions": 0
+    },
+    "economics": {
+      "accuracy": 0.0,
+      "total_questions": 100,
+      "correct_questions": 0
+    },
+    "math": {
+      "accuracy": 0.01,
+      "total_questions": 100,
+      "correct_questions": 1
+    },
+    "physics": {
+      "accuracy": 0.0,
+      "total_questions": 100,
+      "correct_questions": 0
+    },
+    "computer science": {
+      "accuracy": 0.0,
+      "total_questions": 100,
+      "correct_questions": 0
+    },
+    "philosophy": {
+      "accuracy": 0.0,
+      "total_questions": 100,
+      "correct_questions": 0
+    },
+    "engineering": {
+      "accuracy": 0.0,
+      "total_questions": 100,
+      "correct_questions": 0
+    }
+  },
+  "overall_accuracy": 0.12142857142857143
+}
